@@ -6,17 +6,17 @@ Fue dessarrollado en HTML y CSS
 
 La página es responsibla (adaptable a diferentes tamaños de pantalla). 
 
-Proyecto desplegado https://zippy-cobbler-b52f76.netlify.app/ 
+Proyecto desplegado https://miprimerapagina-victoriabalderas.netlify.app/
 
 ## Contenido de mi sitio 
 
-<img src="imagenes/readme/1.png" alt="1">
+![Contenido](Imagenes/readme/1.png)
 
-<img src="imagenes/readme/2.png" alt="2">
+![Contenido](Imagenes/readme/2.png)
 
-<img src="imagenes/readme/3.png" alt="3">
+![Contenido](Imagenes/readme/3.png)
 
-<img src="imagenes/readme/4.png" alt="4">
+![Contenido](Imagenes/readme/4.png)
 
 ## Tecnologías 
 * HTML
