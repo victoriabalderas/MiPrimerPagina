@@ -8,24 +8,18 @@ La página es responsibla (adaptable a diferentes tamaños de pantalla).
 
 Proyecto desplegado https://zippy-cobbler-b52f76.netlify.app/ 
 
-## Secciones de mi sitio 
-![Presentación](assets/readme/presentacion.png)
+## Contenido de mi sitio 
 
-![Habilidades](assets/readme/habilidades.png)
+<img src="imagenes/readme/1.png" alt="1">
 
-![Proyectos](assets/readme/Proyectos.png)
+<img src="imagenes/readme/2.png" alt="2">
 
-![Testimonios](assets/readme/testimonios-footer.png)
+<img src="imagenes/readme/3.png" alt="3">
 
+<img src="imagenes/readme/4.png" alt="4">
 
 ## Tecnologías 
 * HTML
 * CSS
-* JavaScript
-* Bootstrap
-
 ---
-
 Desarrollado con <3 por [Victoria](https://linkedin.com/in/victoria-balderass) en [Tecnolochicas](https://tecnolochicas.mx/)
-
-[def]: "assets/readme/presentacion.png"
