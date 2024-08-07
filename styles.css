@@ -1,27 +1,27 @@
 /* Selector de etiquetas */
 
 body {
-    background-color: rgba(255, 255, 0, 0.603);
+    background-color: rgb(58, 3, 3);
 }
 
 p { 
     display: inline;
-    color: brown; 
+    justify-content: center;
     text-align: center;
+    color: rgb(255, 255, 255); 
+    
+}
+
+.escena {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /* Selector de clase */
-.hamilton {
-    border: 10px solid #0f0000; 
-    height: 500px;
-    width: auto; 
-}
-
-.moulin {
-    border: 10px solid #ff0202;
-    height: 500px;
-    width: auto; 
-}
 
 .text-center {
     text-align: center;
@@ -29,12 +29,6 @@ p {
 
 .inline {
     display: inline;
-}
-
-
-#MR {
-    width: 850px
-    
 }
 
 #navegacion li {
